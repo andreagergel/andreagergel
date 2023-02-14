@@ -11,4 +11,4 @@ Hello! My name is Andrea Gergel, I work primarily in the Python language on data
 
 ### Skills
 
-![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,gcp,git,github,html,java,latex,mysql,php,postgres,py,r,raspberrypi,visualstudio)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,gcp,git,github,html,java,latex,mysql,php,postgres,py,r,raspberrypi,visualstudio)]()
