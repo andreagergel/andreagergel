@@ -5,7 +5,7 @@
 
 Hello! My name is Andrea Gergel, I work primarily in the Python language on data science projects for my company. I work on projects in order to move and transform data from many sources as well as creating reporting solutions for teams to view their data.
 
-In the past I've used both powerBi and Tableau in order to create reports. I have set up and maintained a Tableau Server, SQL Server, and Google bigQuery. I have used products to transform and analyze data such as Alteryx, Tableau Prep, and Machine Learning Studio in addition to Python and R languages. 
+In the past I've used both powerBi and Tableau in order to create reports. I have set up and maintained Tableau Server, SQL Server, and Google bigQuery. I have used products to transform and analyze data such as Alteryx, Tableau Prep, and Machine Learning Studio in addition to Python and R languages. 
 
 <details><summary>Resume Details</summary>
 <p>
