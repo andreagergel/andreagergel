@@ -71,7 +71,7 @@ Minors in Computer Science, Business Informatics, and Mathematics
 ### GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreagergel&count_private=true&show_icons=true&theme=synthwave&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreagergel&layout=compact&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreagergel&layout=compact&count_private=true&show_icons=true&theme=synthwave&hide=mathematica)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills
 
